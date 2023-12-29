@@ -58,12 +58,14 @@ I can solve around 70 different types of Rubik’s cubes 😄
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
 <!-- <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-icon.svg" alt="Rstudio" width="40" height="40"/> </a> -->
-<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rstudio.svg" alt="Rstudio" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/power-automate/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Power Automate" width="40" height="40"/> </a>
+<!-- <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rstudio.svg" alt="Rstudio" width="40" height="40"/> </a> -->
+<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" alt="RStudio" width="40" height="40"/> </a>
+<!-- <a href="https://www.microsoft.com/en-us/power-automate/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Power Automate" width="40" height="40"/> </a> -->
 <a href="https://www.ibm.com/watson" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" alt="IBM Watson" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="40" height="40"/> </a>
-<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="MacOS" width="40" height="40"/> </a>
+<!-- <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="MacOS" width="40" height="40"/> </a> -->
+<a href="https://www.apple.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png" alt="Apple" style="background-color:#FFFFFF; width:40px; height:40px;"/> </a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a>
 </p>
