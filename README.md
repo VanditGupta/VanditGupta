@@ -18,4 +18,4 @@ Currently pursuing a Master of Science in Computer Science at Northeastern Unive
 - Email: **gupta.vandi@northeastern.edu**
 - LinkedIn: [Vandit Gupta](https://www.linkedin.com/in/vandit-gupta/)
 
-##⚡ Fun fact: I can solve around 70 different types of Rubik’s cubes 😄
+## ⚡ Fun fact: I can solve around 70 different types of Rubik’s cubes 😄
