@@ -13,6 +13,8 @@ Currently pursuing a Master of Science in Computer Science at Northeastern Unive
 ## 🚀 Currently Working On
 - Data-driven projects and AI research.
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ## 🌱 Learning
 - Expanding my Machine Learning, Data Science, and Web Development skills.
 
