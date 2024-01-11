@@ -96,6 +96,6 @@ I can solve around 70 different types of Rubik’s cubes 😄
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanditgupta&show_icons=true&locale=en" alt="vanditgupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanditgupta&" alt="vanditgupta" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanditgupta&" alt="vanditgupta" /></p> -->
 
 
