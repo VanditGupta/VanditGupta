@@ -8,10 +8,6 @@ My work spans demand forecasting, large-scale data migrations, AI-powered search
 
 I graduated from Northeastern University with a Master of Science in Computer Science, with a keen interest in AI infrastructure and data-based technologies. I have four publications, with research in text classification, predictive analytics, and accident detection.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanditgupta&label=Profile%20views&color=0e75b6&style=flat" alt="vanditgupta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanditgupta" alt="vanditgupta" /></a> </p>
-
 ## 🚀 What I Work On
 - **Backend and infrastructure:** Python services on AWS and Azure, infrastructure as code with Terraform
 - **AI systems:** demand forecasting, AI search, voice-based agents
