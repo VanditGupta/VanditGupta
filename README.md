@@ -67,7 +67,7 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 ![Imperva](https://img.shields.io/badge/Imperva-0057B8?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square)
-![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black)
+![New Relic](https://img.shields.io/badge/New_Relic-1D252C?style=flat-square&logo=newrelic&logoColor=1CE783)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square)
 
 ### Top Contributed Repositories
