@@ -73,16 +73,16 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 ### Top Contributed Repositories
 
 <!-- CONTRIBUTIONS:START -->
-| Repository | Stars | Pull Requests | Language | Description |
-|:---|:---:|:---:|:---:|:---|
-| [**aws/serverless-application-model**](https://github.com/aws/serverless-application-model) | 9.6k | 1 | Python | The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transfo… |
-| [**tortoise/tortoise-orm**](https://github.com/tortoise/tortoise-orm) | 5.6k | 1 | Python | Familiar asyncio ORM for python, built with relations in mind |
-| [**Nixtla/nixtla**](https://github.com/Nixtla/nixtla) | 4.0k | 1 | Jupyter Notebook | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly… |
-| [**kapicorp/kapitan**](https://github.com/kapicorp/kapitan) | 1.9k | 1 | Python | Generic templated configuration management for Kubernetes, Terraform and other things |
-| [**O-X-L/ansible-opnsense**](https://github.com/O-X-L/ansible-opnsense) | 499 | 1 | Python | Ansible Collection to manage OPNsense firewalls using their API |
-| [**apache/magpie**](https://github.com/apache/magpie) | 114 | 1 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
-| [**opensearch-project/documentation-website**](https://github.com/opensearch-project/documentation-website) | 113 | 1 | SCSS | The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. |
-| [**1999vasu/git-basic**](https://github.com/1999vasu/git-basic) | 1 | 1 | Jupyter Notebook | class for learning git basic |
+| Repository | Stars | Language | Description |
+|:---|:---:|:---:|:---|
+| [**aws/serverless-application-model**](https://github.com/aws/serverless-application-model) | 9.6k | Python | The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro th…<br><sub>**My PR:** Added encryptionconfiguration support for WS::Serverless::StateMachine</sub> |
+| [**tortoise/tortoise-orm**](https://github.com/tortoise/tortoise-orm) | 5.6k | Python | Familiar asyncio ORM for python, built with relations in mind<br><sub>**My PR:** Keep host/user/password from the query string when the URL authority is empty</sub> |
+| [**Nixtla/nixtla**](https://github.com/Nixtla/nixtla) | 4.0k | Jupyter Notebook | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model  for forecasting a…<br><sub>**My PR:** refactor(payloads): reuse _sort_categorical_values in prepare_cross_validation</sub> |
+| [**kapicorp/kapitan**](https://github.com/kapicorp/kapitan) | 1.9k | Python | Generic templated configuration management for Kubernetes, Terraform and other things<br><sub>**My PR:** fix(omegaconf): use register_resolver to avoid deprecation warning</sub> |
+| [**O-X-L/ansible-opnsense**](https://github.com/O-X-L/ansible-opnsense) | 499 | Python | Ansible Collection to manage OPNsense firewalls using their API<br><sub>**My PR:** fix(openvpn_client): add data_ciphers and data_cipher_fallback fields</sub> |
+| [**apache/magpie**](https://github.com/apache/magpie) | 114 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Men…<br><sub>**My PR:** added --list-tags to print case tags with counts</sub> |
+| [**opensearch-project/documentation-website**](https://github.com/opensearch-project/documentation-website) | 113 | SCSS | The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.<br><sub>**My PR:** Unify Benchmark telemetry docs; closes #12373</sub> |
+| [**1999vasu/git-basic**](https://github.com/1999vasu/git-basic) | 1 | Jupyter Notebook | class for learning git basic<br><sub>**My PR:** K-means</sub> |
 <!-- CONTRIBUTIONS:END -->
 
 ### Reach Me

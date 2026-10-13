@@ -21,9 +21,9 @@ def get(path, params=None):
         return json.load(resp)
 
 
-def pr_counts():
-    """Count merged and open pull requests per repo (closed-unmerged ones are skipped)."""
-    counts = {}
+def pr_titles():
+    """Titles of merged and open pull requests per repo (closed-unmerged ones are skipped)."""
+    titles = {}
     for state in ("is:merged", "is:open"):
         page = 1
         while page <= 10:
@@ -34,11 +34,11 @@ def pr_counts():
             })
             for item in data["items"]:
                 repo = item["repository_url"].split("/repos/", 1)[1]
-                counts[repo] = counts.get(repo, 0) + 1
+                titles.setdefault(repo, []).append(item["title"])
             if len(data["items"]) < 100:
                 break
             page += 1
-    return counts
+    return titles
 
 
 def fmt_stars(n):
@@ -50,24 +50,40 @@ def clean(text, limit=100):
     return text if len(text) <= limit else text[: limit - 1] + "…"
 
 
+def describe(row):
+    """Repo description, then what I contributed (up to two PR titles)."""
+    text = clean(row["description"], 90)
+    seen, picked = set(), []
+    for title in row["titles"]:
+        if title not in seen:
+            seen.add(title)
+            picked.append(clean(title, 80))
+        if len(picked) == 2:
+            break
+    work = "; ".join(picked)
+    if text and work:
+        return f"{text}<br><sub>**My PR:** {work}</sub>"
+    return text or f"<sub>**My PR:** {work}</sub>"
+
+
 def build_table(rows):
     lines = [
-        "| Repository | Stars | Pull Requests | Language | Description |",
-        "|:---|:---:|:---:|:---:|:---|",
+        "| Repository | Stars | Language | Description |",
+        "|:---|:---:|:---:|:---|",
     ]
     for r in rows:
         lines.append(
             f"| [**{r['full_name']}**]({r['html_url']}) | {fmt_stars(r['stargazers_count'])} "
-            f"| {r['prs']} | {r['language'] or '-'} | {clean(r['description'])} |"
+            f"| {r['language'] or '-'} | {describe(r)} |"
         )
     return "\n".join(lines)
 
 
 def main():
     print(f"Fetching pull requests for {USER}...")
-    counts = pr_counts()
+    all_titles = pr_titles()
     rows = []
-    for full_name, prs in counts.items():
+    for full_name, titles in all_titles.items():
         try:
             info = get(f"/repos/{full_name}")
         except Exception as exc:  # repo deleted or private
@@ -75,9 +91,9 @@ def main():
             continue
         if info.get("private"):
             continue  # never list private repositories on a public profile
-        info["prs"] = prs
+        info["titles"] = titles
         rows.append(info)
-    rows.sort(key=lambda r: (-r["stargazers_count"], -r["prs"]))
+    rows.sort(key=lambda r: (-r["stargazers_count"], -len(r["titles"])))
     print(f"Found {len(rows)} contributed repositories")
 
     if not rows:
