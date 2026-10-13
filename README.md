@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Vandit Gupta
+## Hi there 👋 I'm Vandit
 
 Backend & AI Infrastructure Engineer. I build and run the production systems behind AI applications: APIs, cloud infrastructure, CI/CD, security and observability. MS in Computer Science from Northeastern University.
 
