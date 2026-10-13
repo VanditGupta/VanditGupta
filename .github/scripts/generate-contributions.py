@@ -73,6 +73,8 @@ def main():
         except Exception as exc:  # repo deleted or private
             print(f"Skipping {full_name}: {exc}")
             continue
+        if info.get("private"):
+            continue  # never list private repositories on a public profile
         info["prs"] = prs
         rows.append(info)
     rows.sort(key=lambda r: (-r["stargazers_count"], -r["prs"]))
