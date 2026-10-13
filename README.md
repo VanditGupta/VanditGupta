@@ -1,48 +1,82 @@
-# Hi 👋, I'm Vandit Gupta
-[Visit my Portfolio](https://vanditgupta.com)
+## Hi there 👋 I'm Vandit Gupta
 
-## 👨‍💻 About Me
-I'm a Full Stack AI Engineer at **New York Life Insurance**, focused on backend and infrastructure development with Python, AWS, Azure and Terraform. I like building and shipping production-grade systems across insurance and FMCG, for Fortune 500 companies and startups alike.
+Backend & AI Infrastructure Engineer at **New York Life**. I build and run the production systems behind AI applications: APIs, cloud infrastructure, CI/CD, security and observability. MS in Computer Science from Northeastern University.
 
-My work spans demand forecasting, large-scale data migrations, AI-powered search, and voice-based agent applications. I also contribute to open-source projects across the Python, cloud, and infrastructure ecosystem (see below).
+- 🔭 Voice AI agents, AI-powered search, agentic backends
+- 🌱 Production LLM systems: evaluation, security, scaling
+- 💬 Ask me about Python, AWS, Terraform, FastAPI, LLM applications
+- 📚 Four publications: text classification, predictive analytics, accident detection ([Research](https://scholar.google.com/citations?user=S2U2DBAAAAAJ&hl=en&authuser=1))
+- ⚡ Fun fact: I can solve around 70 different types of Rubik’s cubes 🧩
 
-I graduated from Northeastern University with a Master of Science in Computer Science, with a keen interest in AI infrastructure and data-based technologies. I have four publications, with research in text classification, predictive analytics, and accident detection.
+### Tech Stack
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanditgupta&label=Profile%20views&color=0e75b6&style=flat" alt="vanditgupta" /> </p>
+**Languages**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanditgupta" alt="vanditgupta" /></a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-## 🚀 What I Work On
-- **Backend and infrastructure:** Python services on AWS and Azure, infrastructure as code with Terraform
-- **AI systems:** demand forecasting, AI search, voice-based agents
-- **Data engineering:** large-scale data migrations
+**Backend & Data**
 
-## 🌍 Open Source
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+
+**AI & LLM Infrastructure**
+
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Amazon Kendra](https://img.shields.io/badge/Amazon_Kendra-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![VAPI](https://img.shields.io/badge/VAPI-111827?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![EKS](https://img.shields.io/badge/EKS-232F3E?style=flat-square&logo=amazoneks&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**DevOps, CI/CD & IaC**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Sentinel-000000?style=flat-square&logo=hashicorp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness-00ADE4?style=flat-square&logo=harness&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![JFrog](https://img.shields.io/badge/JFrog-40BE46?style=flat-square&logo=jfrog&logoColor=white)
+
+**Security & Observability**
+
+![Wiz](https://img.shields.io/badge/Wiz-0054FF?style=flat-square)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+![Imperva](https://img.shields.io/badge/Imperva-0057B8?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=black)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square)
 
 ### Top Contributed Repositories
-Pull requests to well-known projects in the Python, cloud, and infrastructure space. Click a status to see the pull request.
 
-| Repository | What I contributed | Status |
-|---|---|---|
-| [kapicorp/kapitan](https://github.com/kapicorp/kapitan) <br/> ![Stars](https://img.shields.io/github/stars/kapicorp/kapitan?style=flat-square&logo=github) | Fixed OmegaConf's deprecated resolver registration so `kapitan compile` no longer logs deprecation warnings. Kapitan is a configuration management tool for Kubernetes and Terraform. | [✅ Merged](https://github.com/kapicorp/kapitan/pull/1628) |
-| [opensearch-project/documentation-website](https://github.com/opensearch-project/documentation-website) <br/> ![Stars](https://img.shields.io/github/stars/opensearch-project/documentation-website?style=flat-square&logo=github) | Unified the OpenSearch Benchmark telemetry documentation. | [✅ Merged](https://github.com/opensearch-project/documentation-website/pull/12394) |
-| [apache/magpie](https://github.com/apache/magpie) <br/> ![Stars](https://img.shields.io/github/stars/apache/magpie?style=flat-square&logo=github) | Added a `--list-tags` option that prints case tags with counts. | [✅ Merged](https://github.com/apache/magpie/pull/404) |
-| [aws/serverless-application-model](https://github.com/aws/serverless-application-model) <br/> ![Stars](https://img.shields.io/github/stars/aws/serverless-application-model?style=flat-square&logo=github) | Added `EncryptionConfiguration` support to `AWS::Serverless::StateMachine`, enabling customer-managed KMS encryption for Step Functions. | [🔄 Open, in review](https://github.com/aws/serverless-application-model/pull/3932) |
-| [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) <br/> ![Stars](https://img.shields.io/github/stars/tortoise/tortoise-orm?style=flat-square&logo=github) | Fixed PostgreSQL connections over unix sockets when the host is given in the URL query string. | [🔄 Open, in review](https://github.com/tortoise/tortoise-orm/pull/2313) |
-| [Nixtla/nixtla](https://github.com/Nixtla/nixtla) <br/> ![Stars](https://img.shields.io/github/stars/Nixtla/nixtla?style=flat-square&logo=github) | Refactored cross-validation payload building to reuse a shared helper. | [🔄 Open, in review](https://github.com/Nixtla/nixtla/pull/920) |
-| [O-X-L/ansible-opnsense](https://github.com/O-X-L/ansible-opnsense) <br/> ![Stars](https://img.shields.io/github/stars/O-X-L/ansible-opnsense?style=flat-square&logo=github) | Added the missing `data_ciphers` options to the OpenVPN client Ansible module. | [🔄 Open, in review](https://github.com/O-X-L/ansible-opnsense/pull/475) |
+<!-- CONTRIBUTIONS:START -->
+<p align="center">
+  <img src="./metrics.plugin.contributions.svg" alt="Top Contributed Repos" />
+</p>
+<!-- CONTRIBUTIONS:END -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-## 🌱 Learning
-- Expanding my Machine Learning, Data Science, and Web Development skills.
-
-## 💬 Ask Me About
-- Python, AWS, Azure, Terraform, backend and infrastructure engineering, Data Analytics, Machine Learning, AI technologies, Java.
-
-## 📫 How to Reach Me
-- Email: **gupta.vandi@northeastern.edu**
-- LinkedIn: [Vandit Gupta](https://www.linkedin.com/in/vandit-gupta/)
-
-## ⚡ Fun fact:
-I can solve around 70 different types of Rubik’s cubes 😄
+### Reach Me
+[Portfolio](https://vanditgupta.com) · [LinkedIn](https://www.linkedin.com/in/vandit-gupta/) · gupta.vandi@northeastern.edu
