@@ -73,9 +73,13 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 ### Top Contributed Repositories
 
 <!-- CONTRIBUTIONS:START -->
-<p align="center">
-  <img src="./metrics.plugin.contributions.svg" alt="Top Contributed Repos" />
-</p>
+| Repository | Stars | Merged PRs | Language | Description |
+|:---|:---:|:---:|:---:|:---|
+| [**kapicorp/kapitan**](https://github.com/kapicorp/kapitan) | 1.9k | 1 | Python | Generic templated configuration management for Kubernetes, Terraform and other things |
+| [**apache/magpie**](https://github.com/apache/magpie) | 114 | 1 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
+| [**opensearch-project/documentation-website**](https://github.com/opensearch-project/documentation-website) | 113 | 1 | SCSS | The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. |
+| [**1999vasu/git-basic**](https://github.com/1999vasu/git-basic) | 1 | 1 | Jupyter Notebook | class for learning git basic |
+| [**GargiUmrajkar/ImageEditor**](https://github.com/GargiUmrajkar/ImageEditor) | 0 | 2 | Java |  |
 <!-- CONTRIBUTIONS:END -->
 
 ### Reach Me
