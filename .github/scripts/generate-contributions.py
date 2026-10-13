@@ -1,4 +1,4 @@
-"""Rebuild the contributions table in README.md from merged pull requests."""
+"""Rebuild the contributions table in README.md from merged and open pull requests."""
 import json
 import os
 import re
@@ -21,20 +21,23 @@ def get(path, params=None):
         return json.load(resp)
 
 
-def merged_pr_counts():
-    counts, page = {}, 1
-    while page <= 10:
-        data = get("/search/issues", {
-            "q": f"author:{USER} type:pr is:merged -user:{USER}",
-            "per_page": 100,
-            "page": page,
-        })
-        for item in data["items"]:
-            repo = item["repository_url"].split("/repos/", 1)[1]
-            counts[repo] = counts.get(repo, 0) + 1
-        if len(data["items"]) < 100:
-            break
-        page += 1
+def pr_counts():
+    """Count merged and open pull requests per repo (closed-unmerged ones are skipped)."""
+    counts = {}
+    for state in ("is:merged", "is:open"):
+        page = 1
+        while page <= 10:
+            data = get("/search/issues", {
+                "q": f"author:{USER} type:pr {state} -user:{USER}",
+                "per_page": 100,
+                "page": page,
+            })
+            for item in data["items"]:
+                repo = item["repository_url"].split("/repos/", 1)[1]
+                counts[repo] = counts.get(repo, 0) + 1
+            if len(data["items"]) < 100:
+                break
+            page += 1
     return counts
 
 
@@ -49,7 +52,7 @@ def clean(text, limit=100):
 
 def build_table(rows):
     lines = [
-        "| Repository | Stars | Merged PRs | Language | Description |",
+        "| Repository | Stars | Pull Requests | Language | Description |",
         "|:---|:---:|:---:|:---:|:---|",
     ]
     for r in rows:
@@ -61,8 +64,8 @@ def build_table(rows):
 
 
 def main():
-    print(f"Fetching merged pull requests for {USER}...")
-    counts = merged_pr_counts()
+    print(f"Fetching pull requests for {USER}...")
+    counts = pr_counts()
     rows = []
     for full_name, prs in counts.items():
         try:
@@ -76,7 +79,7 @@ def main():
     print(f"Found {len(rows)} contributed repositories")
 
     if not rows:
-        body = "_Merged open-source contributions will appear here._"
+        body = "_Open-source contributions will appear here._"
     else:
         body = build_table(rows[:VISIBLE])
         if len(rows) > VISIBLE:
