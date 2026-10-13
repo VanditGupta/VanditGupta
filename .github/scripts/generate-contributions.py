@@ -8,7 +8,7 @@ import urllib.request
 USER = os.environ.get("GH_USER", "VanditGupta")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 API = "https://api.github.com"
-VISIBLE = 10
+VISIBLE = 5
 START, END = "<!-- CONTRIBUTIONS:START -->", "<!-- CONTRIBUTIONS:END -->"
 
 
@@ -51,19 +51,7 @@ def clean(text, limit=100):
 
 
 def describe(row):
-    """Repo description, then what I contributed (up to two PR titles)."""
-    text = clean(row["description"], 90)
-    seen, picked = set(), []
-    for title in row["titles"]:
-        if title not in seen:
-            seen.add(title)
-            picked.append(clean(title, 80))
-        if len(picked) == 2:
-            break
-    work = "; ".join(picked)
-    if text and work:
-        return f"{text}<br><sub>**My PR:** {work}</sub>"
-    return text or f"<sub>**My PR:** {work}</sub>"
+    return clean(row["description"], 100)
 
 
 def build_table(rows):
