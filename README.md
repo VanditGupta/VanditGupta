@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Vandit Gupta
 
-Backend & AI Infrastructure Engineer at **New York Life**. I build and run the production systems behind AI applications: APIs, cloud infrastructure, CI/CD, security and observability. MS in Computer Science from Northeastern University.
+Backend & AI Infrastructure Engineer. I build and run the production systems behind AI applications: APIs, cloud infrastructure, CI/CD, security and observability. MS in Computer Science from Northeastern University.
 
 - 🔭 Voice AI agents, AI-powered search, agentic backends
 - 🌱 Production LLM systems: evaluation, security, scaling
