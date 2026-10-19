@@ -86,7 +86,7 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 | Repository | Stars | Language | Description |
 |:---|:---:|:---:|:---|
 | [**O-X-L/ansible-opnsense**](https://github.com/O-X-L/ansible-opnsense) | 499 | Python | Ansible Collection to manage OPNsense firewalls using their API |
-| [**apache/magpie**](https://github.com/apache/magpie) | 119 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
+| [**apache/magpie**](https://github.com/apache/magpie) | 120 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
 | [**opensearch-project/documentation-website**](https://github.com/opensearch-project/documentation-website) | 113 | SCSS | The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. |
 | [**1999vasu/git-basic**](https://github.com/1999vasu/git-basic) | 1 | Jupyter Notebook | class for learning git basic |
 
