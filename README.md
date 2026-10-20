@@ -38,7 +38,6 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 
 **Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![EKS](https://img.shields.io/badge/EKS-232F3E?style=flat-square&logo=amazoneks&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
