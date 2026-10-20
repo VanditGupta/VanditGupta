@@ -71,13 +71,14 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 | [**tortoise/tortoise-orm**](https://github.com/tortoise/tortoise-orm) | 5.6k | Python | Familiar asyncio ORM for python, built with relations in mind |
 | [**Nixtla/nixtla**](https://github.com/Nixtla/nixtla) | 4.0k | Jupyter Notebook | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly… |
 | [**kapicorp/kapitan**](https://github.com/kapicorp/kapitan) | 1.9k | Python | Generic templated configuration management for Kubernetes, Terraform and other things |
-| [**freeipa/ansible-freeipa**](https://github.com/freeipa/ansible-freeipa) | 572 | Python | Ansible roles and modules for FreeIPA |
+| [**redis/redis-om-python**](https://github.com/redis/redis-om-python) | 1.3k | Python | Object mapping, and more, for Redis and Python |
 
 <details>
-<summary>Show more (4 repositories)</summary>
+<summary>Show more (5 repositories)</summary>
 
 | Repository | Stars | Language | Description |
 |:---|:---:|:---:|:---|
+| [**freeipa/ansible-freeipa**](https://github.com/freeipa/ansible-freeipa) | 572 | Python | Ansible roles and modules for FreeIPA |
 | [**O-X-L/ansible-opnsense**](https://github.com/O-X-L/ansible-opnsense) | 499 | Python | Ansible Collection to manage OPNsense firewalls using their API |
 | [**apache/magpie**](https://github.com/apache/magpie) | 120 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
 | [**opensearch-project/documentation-website**](https://github.com/opensearch-project/documentation-website) | 113 | SCSS | The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. |
