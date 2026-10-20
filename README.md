@@ -51,7 +51,6 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 ![Harness](https://img.shields.io/badge/Harness-00ADE4?style=flat-square&logo=harness&logoColor=white)
 ![CodePipeline](https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![JFrog](https://img.shields.io/badge/JFrog-40BE46?style=flat-square&logo=jfrog&logoColor=white)
 
 **Security & Observability**
 ![Wiz](https://img.shields.io/badge/Wiz-0054FF?style=flat-square)
@@ -61,6 +60,7 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 ![WAF](https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square)
 ![New Relic](https://img.shields.io/badge/New_Relic-1D252C?style=flat-square&logo=newrelic&logoColor=1CE783)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square)
+![JFrog](https://img.shields.io/badge/JFrog-40BE46?style=flat-square&logo=jfrog&logoColor=white)
 
 ### Top Contributed Repositories
 
