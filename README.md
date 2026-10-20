@@ -11,14 +11,12 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 ### Tech Stack
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Backend & Data**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -29,7 +27,6 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
 **AI & LLM Infrastructure**
-
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Amazon Kendra](https://img.shields.io/badge/Amazon_Kendra-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
@@ -40,14 +37,12 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Cloud**
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![EKS](https://img.shields.io/badge/EKS-232F3E?style=flat-square&logo=amazoneks&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **DevOps, CI/CD & IaC**
-
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Sentinel-000000?style=flat-square&logo=hashicorp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -60,7 +55,6 @@ Backend & AI Infrastructure Engineer. I build and run the production systems beh
 ![JFrog](https://img.shields.io/badge/JFrog-40BE46?style=flat-square&logo=jfrog&logoColor=white)
 
 **Security & Observability**
-
 ![Wiz](https://img.shields.io/badge/Wiz-0054FF?style=flat-square)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
 ![Imperva](https://img.shields.io/badge/Imperva-0057B8?style=flat-square)
