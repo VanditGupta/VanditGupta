@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Vandit
 
-Backend & AI Infrastructure Engineer. I build and run the production systems behind AI applications: APIs, cloud infrastructure, CI/CD, security and observability. MS in Computer Science from Northeastern University.
+AI Infrastructure Engineer. I build and run the production systems behind AI applications: APIs, cloud infrastructure, CI/CD, security and observability. MS in Computer Science from Northeastern University.
 
 - 🔭 Voice AI agents, AI-powered search, agentic backends
 - 🌱 Production LLM systems: evaluation, security, scaling
