@@ -79,10 +79,10 @@ AI Infrastructure Engineer. I build and run the production systems behind AI app
 | Repository | Stars | Language | Description |
 |:---|:---:|:---:|:---|
 | [**freeipa/ansible-freeipa**](https://github.com/freeipa/ansible-freeipa) | 572 | Python | Ansible roles and modules for FreeIPA |
-| [**O-X-L/ansible-opnsense**](https://github.com/O-X-L/ansible-opnsense) | 499 | Python | Ansible Collection to manage OPNsense firewalls using their API |
-| [**apache/magpie**](https://github.com/apache/magpie) | 121 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
+| [**O-X-L/ansible-opnsense**](https://github.com/O-X-L/ansible-opnsense) | 500 | Python | Ansible Collection to manage OPNsense firewalls using their API |
+| [**apache/magpie**](https://github.com/apache/magpie) | 123 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
 | [**opensearch-project/documentation-website**](https://github.com/opensearch-project/documentation-website) | 113 | SCSS | The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. |
-| [**GoogleCloudPlatform/cxas-scrapi**](https://github.com/GoogleCloudPlatform/cxas-scrapi) | 109 | Python | A powerful Python API, CLI, and set of Agent Skills for CX Agent Studio to automate, evaluate, and … |
+| [**GoogleCloudPlatform/cxas-scrapi**](https://github.com/GoogleCloudPlatform/cxas-scrapi) | 110 | Python | A powerful Python API, CLI, and set of Agent Skills for CX Agent Studio to automate, evaluate, and … |
 | [**1999vasu/git-basic**](https://github.com/1999vasu/git-basic) | 1 | Jupyter Notebook | class for learning git basic |
 
 </details>
