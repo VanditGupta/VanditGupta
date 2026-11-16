@@ -78,7 +78,7 @@ AI Infrastructure Engineer. I build and run the production systems behind AI app
 
 | Repository | Stars | Language | Description |
 |:---|:---:|:---:|:---|
-| [**freeipa/ansible-freeipa**](https://github.com/freeipa/ansible-freeipa) | 572 | Python | Ansible roles and modules for FreeIPA |
+| [**freeipa/ansible-freeipa**](https://github.com/freeipa/ansible-freeipa) | 573 | Python | Ansible roles and modules for FreeIPA |
 | [**O-X-L/ansible-opnsense**](https://github.com/O-X-L/ansible-opnsense) | 511 | Python | Ansible Collection to manage OPNsense firewalls using their API |
 | [**apache/magpie**](https://github.com/apache/magpie) | 145 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
 | [**GoogleCloudPlatform/cxas-scrapi**](https://github.com/GoogleCloudPlatform/cxas-scrapi) | 116 | Python | A powerful Python API, CLI, and set of Agent Skills for CX Agent Studio to automate, evaluate, and … |
