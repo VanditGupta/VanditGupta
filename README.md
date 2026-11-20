@@ -78,9 +78,9 @@ AI Infrastructure Engineer. I build and run the production systems behind AI app
 
 | Repository | Stars | Language | Description |
 |:---|:---:|:---:|:---|
-| [**freeipa/ansible-freeipa**](https://github.com/freeipa/ansible-freeipa) | 574 | Python | Ansible roles and modules for FreeIPA |
-| [**O-X-L/ansible-opnsense**](https://github.com/O-X-L/ansible-opnsense) | 513 | Python | Ansible Collection to manage OPNsense firewalls using their API |
-| [**apache/magpie**](https://github.com/apache/magpie) | 150 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
+| [**freeipa/ansible-freeipa**](https://github.com/freeipa/ansible-freeipa) | 573 | Python | Ansible roles and modules for FreeIPA |
+| [**O-X-L/ansible-opnsense**](https://github.com/O-X-L/ansible-opnsense) | 511 | Python | Ansible Collection to manage OPNsense firewalls using their API |
+| [**apache/magpie**](https://github.com/apache/magpie) | 151 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
 | [**GoogleCloudPlatform/cxas-scrapi**](https://github.com/GoogleCloudPlatform/cxas-scrapi) | 117 | Python | A powerful Python API, CLI, and set of Agent Skills for CX Agent Studio to automate, evaluate, and … |
 | [**opensearch-project/documentation-website**](https://github.com/opensearch-project/documentation-website) | 115 | SCSS | The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. |
 | [**1999vasu/git-basic**](https://github.com/1999vasu/git-basic) | 1 | Jupyter Notebook | class for learning git basic |
