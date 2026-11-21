@@ -69,7 +69,7 @@ AI Infrastructure Engineer. I build and run the production systems behind AI app
 |:---|:---:|:---:|:---|
 | [**aws/serverless-application-model**](https://github.com/aws/serverless-application-model) | 9.6k | Python | The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transfo… |
 | [**tortoise/tortoise-orm**](https://github.com/tortoise/tortoise-orm) | 5.6k | Python | Familiar asyncio ORM for python, built with relations in mind |
-| [**Nixtla/nixtla**](https://github.com/Nixtla/nixtla) | 4.0k | Jupyter Notebook | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly… |
+| [**Nixtla/nixtla**](https://github.com/Nixtla/nixtla) | 4.1k | Jupyter Notebook | TimeGPT-2.1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly… |
 | [**kapicorp/kapitan**](https://github.com/kapicorp/kapitan) | 1.9k | Python | Generic templated configuration management for Kubernetes, Terraform and other things |
 | [**redis/redis-om-python**](https://github.com/redis/redis-om-python) | 1.3k | Python | Object mapping, and more, for Redis and Python |
 
@@ -81,7 +81,7 @@ AI Infrastructure Engineer. I build and run the production systems behind AI app
 | [**freeipa/ansible-freeipa**](https://github.com/freeipa/ansible-freeipa) | 573 | Python | Ansible roles and modules for FreeIPA |
 | [**O-X-L/ansible-opnsense**](https://github.com/O-X-L/ansible-opnsense) | 511 | Python | Ansible Collection to manage OPNsense firewalls using their API |
 | [**apache/magpie**](https://github.com/apache/magpie) | 151 | Python | Agent-assisted maintainership and development framework for Apache projects — Triage, Mentoring, Dr… |
-| [**GoogleCloudPlatform/cxas-scrapi**](https://github.com/GoogleCloudPlatform/cxas-scrapi) | 117 | Python | A powerful Python API, CLI, and set of Agent Skills for CX Agent Studio to automate, evaluate, and … |
+| [**GoogleCloudPlatform/cxas-scrapi**](https://github.com/GoogleCloudPlatform/cxas-scrapi) | 118 | Python | A powerful Python API, CLI, and set of Agent Skills for CX Agent Studio to automate, evaluate, and … |
 | [**opensearch-project/documentation-website**](https://github.com/opensearch-project/documentation-website) | 115 | SCSS | The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins. |
 | [**1999vasu/git-basic**](https://github.com/1999vasu/git-basic) | 1 | Jupyter Notebook | class for learning git basic |
 
